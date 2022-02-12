@@ -1,4 +1,4 @@
-# PRÁCTICA 1: COMENTARIO INFOGRAFIA
+# PRÁCTICA 1: COMENTARIO DE INFOGRAFÍA/PROYECTO DE PERIODISMO DE DATOS
 # SEE HOW THE WORLD'S MOST POLLUTED AIR COMPARES TO YOUR CITY'S
 El proyecto de periodismo de datos a comentar es el ganador de Mejor Visualización en los **2020 SIGMA AWARDS** de *data journalism*. El nombre del proyecto es *See How the World's Most Polluted Air Compares With Your City's*, publicado por el New York Times. El artículo interactivo permite a los lectores experimentar (*de manera puramente visual*) cómo es respirar uno de los peores aires del mundo en comparación con el aire de su propia ciudad, lo que ofrece una comprensión más personal de la escala de este peligro para la salud pública. 
 
